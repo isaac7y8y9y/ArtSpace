@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+
+    <string name="alice_n_rin_kimono">Alice And Rin in Kimono</string>
+    <string name="alice_n_rin_kimono_description">Alice wears a blue kimono while Rin wears a
+        red one</string>
+    <string name="alice_n_rin_kimono_info">Panda Expresso (2025)</string>
+
+    <string name="alice_n_rin">Alice And Rin</string>
+    <string name="alice_n_rin_description">Alice wears a blue pencil skirt, light blue blouse while
+        Rin wears a white dress with pink belt</string>
+    <string name="alice_n_rin_info">Panda Expresso (2023)</string>
+
+    <string name="blue_knight">Blue Knight</string>
+    <string name="blue_knight_description">A blonde man in silver knight armor and blue cape
+    </string>
+    <string name="blue_knight_info">Panda Expresso (2023)</string>
+
+    <string name="sword_woman">Sword Woman</string>
+    <string name="sword_woman_description">A blonde sword woman with ponytail and silver armor
+    </string>
+    <string name="sword_woman_info">Panda Expresso (2022)</string>
+
+    <string name="gm_commander">GM Commander</string>
+    <string name="gm_commander_description">A silver haired soldier with robotic left arm
+        and a robot behind him</string>
+    <string name="gm_commander_info">Panda Expresso (2023)</string>
+
+    <string name="water_princess">Princess of the Water Kingdom</string>
+    <string name="water_princess_description">A blue haired princess with fancy hairstyle wears a
+    blue trumpet gown with gold lace trim, standing on a stone pier</string>
+    <string name="water_princess_info">Panda Expresso (2024)</string>
+</resources>
